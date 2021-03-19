@@ -1,0 +1,23 @@
+﻿  sosu-last.cpp
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(46,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(53,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(53,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(53,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(53,64): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(70,33): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(71,33): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(132,36): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(139,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(139,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(139,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(139,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(141,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(142,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(143,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(157,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(158,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(159,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(172,49): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(85,14): warning C4101: xPos: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu-last\sosu-last\sosu-last.cpp(85,20): warning C4101: yPos: неиспользованная локальная переменная
+  sosu-last.vcxproj -> C:\Users\student\source\repos\sosu-last\Debug\sosu-last.exe
